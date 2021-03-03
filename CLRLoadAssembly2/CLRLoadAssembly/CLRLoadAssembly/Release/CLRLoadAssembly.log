@@ -1,0 +1,7 @@
+﻿  load_assembly.cpp
+  main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 40 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CLRLoadAssembly.vcxproj -> C:\Users\Developer\Documents\Projects\CLRLoadAssembly_cpp\CLRLoadAssembly\Release\CLRLoadAssembly.exe
